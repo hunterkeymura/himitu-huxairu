@@ -1,0 +1,1 @@
+copy /b "C:\Users\Xom\Pictures\Transiting_Exoplanet_Survey_Satellite_artist_concept_(transparent_background).png" + "C:\Users\Xom\Pictures\Transiting_Exoplanet_Survey_Satellite_artist_concept_(transparent_background).zip" "C:\Users\Xom\Pictures\Xom_Xom.png"
